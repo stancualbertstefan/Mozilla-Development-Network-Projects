@@ -6,7 +6,7 @@ it contains the following projects:
 #1 Project - Mozilla is cool, "name"
 ![image](https://user-images.githubusercontent.com/16820351/119233255-d9183a00-bb30-11eb-8602-e81cdbad9236.png)
 
-#2 Project - Maark up a letter (HMTL formatting)
+#2 Project - Mark up a letter (HMTL formatting)
 ![image](https://user-images.githubusercontent.com/16820351/119233334-2e544b80-bb31-11eb-920f-23332d8f81fa.png)
 
 
