@@ -14,8 +14,10 @@ it contains the following projects:
 ![image](https://user-images.githubusercontent.com/16820351/119233189-732bb280-bb30-11eb-9c64-49d350397718.png)
 
 #4 Project - Google Splash Webpage (Responsive)
+
 High Width
 ![image](https://user-images.githubusercontent.com/16820351/124359677-acc30380-dc2e-11eb-9cf7-79d802a8fe2a.png)
+
 
 Small Width
 ![image](https://user-images.githubusercontent.com/16820351/124359650-89985400-dc2e-11eb-90ca-395f62443f3e.png)
